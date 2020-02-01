@@ -1,6 +1,0 @@
-1. title
-2. button image - start/exit/option, main hud
-3. wood/iron/steel/cooper/silver/gold/mithril/adamantine/diamond
-4. novice -- master
-5. merchant
-6. stamina, liuck icon
